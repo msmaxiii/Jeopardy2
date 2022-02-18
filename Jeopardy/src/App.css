@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    height:100px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(16, 113, 151);
+    color: wheat;
+    
+}
+h3{
+    color: wheat;
+}
+
+.dbutton{
+    color:rgb(177, 104, 116);
+}
+.ibutton{
+    color:rgb(84, 116, 185);
+}
+.rbutton{
+    color:rgb(138, 25, 78);
+}
+.q.button{
+    color:rgb(155, 113, 37);
+}
+.cbutton{
+    color:navy;
+}
+score{
+    color:orangered;
+}
